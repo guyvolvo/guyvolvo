@@ -1,6 +1,6 @@
 👋
 ▶︎ •၊၊||၊|။||||။‌‌‌‌‌၊|• 0:10
-<img width="374" height="336" alt="image" src="https://github.com/user-attachments/assets/654f9ab9-29f1-47aa-b520-49552aa1c0f8" />
+![hippo]([https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif](https://tenor.com/view/james-doakes-james-doakes-doakes-meme-doakes-suspicious-gif-496833742737182965))
 
 **guyvolvo/guyvolvo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
