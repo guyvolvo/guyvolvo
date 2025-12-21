@@ -1,4 +1,3 @@
-<h3 align="left">Passionate cyber-security self learner</h3>
 
 ![MIT License](https://img.shields.io/badge/License-MIT-green.svg)
 
