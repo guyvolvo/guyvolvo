@@ -12,8 +12,6 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-🖥️ Fake interactive shell
-![terminal-demo](terminal.gif)
-https://guyvolvo.github.io/fake-shell
+
 ![Dexter shrug](https://media1.tenor.com/m/decKaL0L-_8AAAAd/dexter-idk.gif)
 
