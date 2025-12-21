@@ -13,5 +13,5 @@
 ![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-![Dexter shrug](https://media.tenor.com/4t1rVYxvGUoAAAAC/idk-i-dont-know.gif)
+![Dexter shrug](https://media1.tenor.com/m/decKaL0L-_8AAAAd/dexter-idk.gif)
 
