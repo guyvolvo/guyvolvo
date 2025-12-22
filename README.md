@@ -13,8 +13,9 @@
 ![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-<img src="https://tenor.com/view/hulk-hogan-hulk-lofi-animation-lofi-hulk-hulk-writing-meme-gif-13400717875905984170" width="150">
+<img src="" width="150">
 
+![hulk-hogan-hulk](https://github.com/user-attachments/assets/d27eea8d-03eb-44e6-bd58-1d175caff81c)
 
 <img src="https://media1.tenor.com/m/decKaL0L-_8AAAAd/dexter-idk.gif" width="150">
 
