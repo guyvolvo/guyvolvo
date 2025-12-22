@@ -1,5 +1,5 @@
 
-![MIT License](https://img.shields.io/badge/License-MIT-green.svg)
+![MIT License](https://img.shields.io/badge/License-MIT-green.svg) 
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
@@ -13,9 +13,7 @@
 ![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-<img src="" width="150">
-
 ![hulk-hogan-hulk](https://github.com/user-attachments/assets/d27eea8d-03eb-44e6-bd58-1d175caff81c)
 
-<img src="https://media1.tenor.com/m/decKaL0L-_8AAAAd/dexter-idk.gif" width="150">
+
 
