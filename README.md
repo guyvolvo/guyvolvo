@@ -13,5 +13,7 @@
 ![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+<img width="480" height="480" alt="image" src="https://github.com/user-attachments/assets/dc1b76ae-8903-47a3-8c85-d83f1fb28486" />
+
 <img src="https://media1.tenor.com/m/decKaL0L-_8AAAAd/dexter-idk.gif" width="150">
 
