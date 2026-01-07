@@ -16,4 +16,6 @@
 ![hulk-hogan-hulk](https://github.com/user-attachments/assets/d27eea8d-03eb-44e6-bd58-1d175caff81c)
 
 
-
+<p align="center">
+  <img src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3267246" alt="TryHackMe Badge">
+</p>
