@@ -1,4 +1,4 @@
 ## Hi ✌️
 
-[![My Skills](https://skillicons.dev/icons?i=azure,docker,py,powershell,go,grafana,prometheus,linux,bash,ansible,terraform)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,azure,terraform,docker,py,powershell,go,grafana,prometheus,linux,bash,ansible)](https://skillicons.dev)
 
