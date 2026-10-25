@@ -1,6 +1,6 @@
 ## Hi ✌️ my name is Guy 
 
-### Find your next career opportunity at [oceanofjobs.com](https://oceanofjobs.com/)
+### Automate your job search at [oceanofjobs.com](https://oceanofjobs.com/)
 
 
 <img width="2811" height="961" alt="GH pic" src="https://github.com/user-attachments/assets/6fdcaab2-5091-41ca-8c50-1d3115106478" />
